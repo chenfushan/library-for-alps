@@ -1,0 +1,12 @@
+#!/usr/bin/expect -f
+
+
+# This file is a script for login a server.
+# replace the user@server.net and true_password_string to your own content
+
+set timeout 30
+spawn ssh user@server.net
+expect "password:"
+send "true_password_string\n"
+expect "]*"
+interact
