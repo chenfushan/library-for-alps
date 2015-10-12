@@ -18,3 +18,6 @@
 
 #Mac finder files
 .DS_Store
+
+#php intel files
+.phpintel
