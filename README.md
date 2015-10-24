@@ -25,6 +25,8 @@ I write this just for fun.
 ## C++ library
 - MD5 is a tool for encrypt a string by md5 algorithm
 
+- RandNum is a tool for get a int rand number
+
 ## Shell library
 
 - http\_vist.sh is for visit the url in url.conf
