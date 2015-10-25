@@ -15,7 +15,7 @@
 		 * WeChat platform secret
 		 * @var string
 		 */
-		const SECRET = "e13465be6a14d6ed9ad6be969c6b5e5e";
+		const SECRET = "php_secret";
 
 		/**
 		 * WeChat platform id
