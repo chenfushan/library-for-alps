@@ -41,6 +41,6 @@ int RandNum::GetRandNum(int start, int end){
 // int main(int argc, char const *argv[])
 // {
 // 	RandNum *num = new RandNum();
-// 	printf("%d\n", num->GetRandNum(10,9));
+// 	printf("%d\n", num->GetRandNum(9,19));
 // 	return 0;
 // }
