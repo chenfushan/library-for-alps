@@ -8,6 +8,7 @@
 
 #include <iostream>
 #include <sstream>
+#include <string>
 
 #ifndef AlpsChar_h
 #define AlpsChar_h
@@ -15,6 +16,7 @@
 
 namespace AlpsChar {
     std::string AlpsCharToString(char ch);
+	std::string AlpsBigIntegerMultiplication(std::string num1, std::string num2);
 }
 
 
