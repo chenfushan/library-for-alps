@@ -34,3 +34,5 @@ you can write multi url every line in url.conf.
 
 - login\_server.sh is for login the remote server.
 just replace the [user] and [user\_host] and password
+
+//chage
